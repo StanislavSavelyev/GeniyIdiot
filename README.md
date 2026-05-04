@@ -18,6 +18,6 @@
 
 • Реализовал общую библеотеку, которая работает на консольное и WinForm приложения.
 
-
+<img width="1664" height="884" alt="Image" src="https://github.com/user-attachments/assets/4fd4f66d-c080-44fb-a65c-946f6d956008" />
 
 
